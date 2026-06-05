@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "787493293957",
+    "project_id": "hyrox-training-d226c",
+    "storage_bucket": "hyrox-training-d226c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787493293957:android:f544832651b1934b86beec",
+        "android_client_info": {
+          "package_name": "com.example.hyroxtraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787493293957-avkp51una59e17tk6rl51h2nvtfdcpbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hyroxtraining",
+            "certificate_hash": "f4e35434667f03a87e767f23492793d3c555bc7e"
+          }
+        },
+        {
+          "client_id": "787493293957-fc1akdba50655eqoql1djd861fsbegq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1HZLW8J-fb1BIkBt97g5EXcnCaVwO-b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787493293957-fc1akdba50655eqoql1djd861fsbegq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787493293957:android:03e223de8d6da98286beec",
+        "android_client_info": {
+          "package_name": "com.hybridengine.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787493293957-7fruop5jlj81al9ossok6ffd5vnkrsqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hybridengine.app",
+            "certificate_hash": "d7eb47afe88e8cd999c29139a2713643ee036bcd"
+          }
+        },
+        {
+          "client_id": "787493293957-jare2nif1q0q7759946ricbneoc0f9qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hybridengine.app",
+            "certificate_hash": "23fe65986aad0e1870e1afb182accfca01881855"
+          }
+        },
+        {
+          "client_id": "787493293957-fc1akdba50655eqoql1djd861fsbegq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1HZLW8J-fb1BIkBt97g5EXcnCaVwO-b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787493293957-fc1akdba50655eqoql1djd861fsbegq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
