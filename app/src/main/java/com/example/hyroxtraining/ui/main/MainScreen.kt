@@ -133,7 +133,7 @@ fun MainScreen(
 
     // Bind system/hardware back press to navigation backstack
     BackHandler(enabled = navHistory.size > 1) {
-        navHistory.removeLast()
+        navHistory.removeAt(navHistory.lastIndex)
     }
 
     val currentTab = navHistory.lastOrNull { it is Screen.Tab } as? Screen.Tab
@@ -254,7 +254,7 @@ fun MainScreen(
                             viewModel = mainViewModel,
                             onBack = {
                                 if (navHistory.size > 1) {
-                                    navHistory.removeLast()
+                                    navHistory.removeAt(navHistory.lastIndex)
                                 }
                             },
                             modifier = Modifier.fillMaxSize()
